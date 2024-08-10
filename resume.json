@@ -1,0 +1,104 @@
+{
+    "name": "Syed Faizan Raza",
+    "contact": {
+        "email": "syedfai97@gmail.com",
+        "phone": "+923062809182",
+        "linkedin": "https://www.linkedin.com/in/syed-faizan-raza-naqvi-a09416145/"
+    },
+    "education": [
+        {
+            "degree": "MS Data Engineering",
+            "institution": "NED University",
+            "location": "Karachi, Pakistan",
+            "dates": "Nov 2021 - Mar 2024 (Expected)"
+        },
+        {
+            "degree": "Bachelor of Science in Economics & Finance",
+            "institution": "NED University",
+            "location": "Karachi, Pakistan",
+            "dates": "Dec 2016 - Jan 2021"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Business Intelligence Analyst",
+            "company": "Delivery Hero - Foodpanda",
+            "location": "Karachi, Pakistan",
+            "dates": "Aug 2023 - Present",
+            "responsibilities": [
+                "Drive the evolution of data modeling, visualization, and reporting to pinpoint areas ripe for process improvement.",
+                "Developed and implemented Tableau dashboards, leveraging SQL queries to extract actionable insights.",
+                "Optimized cashloss strategy, resulting in a 5% increase in customer acquisition and 500k in additional revenue.",
+                "Translate intricate datasets into concise presentations and reports tailored for senior leadership evaluation.",
+                "Worked closely with the marketing, Finance, and Fintech team on various campaigns, predicting outcomes and doing post-campaign analysis.",
+                "Significantly enhance team efficiency by automating complete payout reports.",
+                "Implement DBT and Airflow to automate data warehouse updates, ensuring streamlined data management processes.",
+                "Conducted AB tests across marketing initiatives, refining strategies and driving a 12% increase in conversion rates through iterative optimizations."
+            ]
+        },
+        {
+            "title": "Implementation and Support Engineer",
+            "company": "TPS Worldwide",
+            "location": "Karachi, Pakistan",
+            "dates": "Jan 2023 - Aug 2023",
+            "responsibilities": [
+                "Proficiently managed post-deployment client support for the Core metrics solution, emphasizing data intricacies.",
+                "Translated intricate requirements into precise technical design specifications, prioritizing data accuracy and integration.",
+                "Collaborated closely with both business and technical teams to troubleshoot data-related issues and guide seamless integration.",
+                "Leveraged SSIS and SASS in a local environment to establish robust database instances, enhancing AB testing with a focus on data validation and analysis."
+            ]
+        },
+        {
+            "title": "Senior Financial Analyst",
+            "company": "Mobilelink - Cricket Wireless",
+            "location": "Karachi, Pakistan",
+            "dates": "Sep 2022 - Jan 2023",
+            "responsibilities": [
+                "Create comprehensive financial models, perform benchmarking, and analyze processes to drive strategic decision-making.",
+                "Conduct in-depth business studies encompassing past, future, and comparative performance, and develop forecast models for informed decision-making.",
+                "Identify trends, guide senior financial analysts, and make recommendations based on thorough analysis.",
+                "Consult with management to influence long-term strategic decisions, offering insights within a broad scope.",
+                "Spearheaded process improvement initiatives and shaped policy development, exerting a significant impact on the overall function."
+            ]
+        },
+        {
+            "title": "Risk Analyst",
+            "company": "United Bank Limited",
+            "location": "Karachi, Pakistan",
+            "dates": "Jan 2022 - Sep 2022",
+            "responsibilities": [
+                "Conducted thorough reviews of income credit reports and employment histories for borrowers, ensuring accuracy and validity.",
+                "Obtained and interpreted financial data to support credit limit reviews and assessments.",
+                "Maintained adherence to banking standards and government lending guidelines for loan services.",
+                "Delivered presentations to upper management and executive teams, presenting informed loan recommendations.",
+                "Actively participated in decision-making processes concerning the extension of lines of credit, ensuring prudent financial management."
+            ]
+        }
+    ],
+    "skills": {
+        "expert": ["SQL", "Data Visualization", "Communication and Teamwork", "Tableau", "Power BI", "AB Testing"],
+        "intermediate": ["Programming Language", "Analytical and Problem Solving", "Google Analytics"]
+    },
+    "certifications": [
+        {
+            "name": "Career Essentials in Data Analysis",
+            "date": "2023",
+            "issuer": "Microsoft"
+        },
+        {
+            "name": "Python Essential Training",
+            "date": "2023",
+            "issuer": "LinkedIn"
+        },
+        {
+            "name": "Databases and SQL for Data Science with Python",
+            "date": "2023",
+            "issuer": "Coursera"
+        },
+        {
+            "name": "Career Essentials in GitHub Training",
+            "date": "2023",
+            "issuer": "GitHub"
+        }
+    ]
+}
